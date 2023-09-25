@@ -1,0 +1,12 @@
+Notes:
+
+- Modes:
+  - Normal
+  - Insert
+  - visual
+  - command
+
+Normal mode:
+ - j,k move up and down
+ - l,h right right
+ - x delete 
