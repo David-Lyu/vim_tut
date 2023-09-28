@@ -7,6 +7,14 @@ Notes:
   - command
 
 Normal mode:
+ - Command Count Motion
+
+-Motion:[
  - j,k move up and down
  - l,h right right
  - x delete 
+ - w forward word
+ - b backword word
+
+With motion you can add a count infront of it to go use that times:
+Example) "5k" - goes down 5 lines
