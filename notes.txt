@@ -18,3 +18,16 @@ Normal mode:
 
 With motion you can add a count infront of it to go use that times:
 Example) "5k" - goes down 5 lines
+
+- Command:
+  - d: delete: can use with motion
+    - dd delete the line
+
+Insert mode:
+- uses a or i. I starts at position a starts after the postion when hovering
+
+Visual mode:
+- v using mouse to select
+ - can use it with y to copy paste
+- p can paste and also if you delete something it gets stored as paste
+
